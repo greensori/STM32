@@ -18,3 +18,6 @@ https://github.com/gnu-mcu-eclipse/eclipse-plugins
 
 https://github.com/gnu-mcu-eclipse/windows-build-tools
 
+5. install openOcd
+
+https://github.com/gnu-mcu-eclipse/openocd
