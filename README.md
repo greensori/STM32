@@ -21,3 +21,8 @@ https://github.com/gnu-mcu-eclipse/windows-build-tools
 5. install openOcd
 
 https://github.com/gnu-mcu-eclipse/openocd
+
+
+6. recnet cmsis
+
+https://github.com/ARM-software/CMSIS_5
