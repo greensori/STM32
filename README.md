@@ -26,3 +26,6 @@ https://github.com/gnu-mcu-eclipse/openocd
 6. recnet cmsis
 
 https://github.com/ARM-software/CMSIS_5
+
+
+7. update library and delete #include 'main' on stm32xxxx_hal.conf.h
